@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame eg. "kippt/jekyll-incorporated"
-GITHUB_REPONAME = ""
+GITHUB_REPONAME = "bluewhalebook/bluewhalebook"
 
 desc "Generate blog files"
 task :build do
@@ -18,7 +18,7 @@ end
 
 
 desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
+task :publish => [:build] do
   Dir.mktmpdir do |tmp|
     cp_r "_site/.", tmp
     Dir.chdir tmp
