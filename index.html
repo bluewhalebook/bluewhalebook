@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+<div class="blog-cover" style="background-image:url({{ site.baseurl }}/images/{{ site.inc.cover_image }});">
     
     <section>
         <div class="container">
@@ -27,14 +27,13 @@ layout: base
     </section>
 </div>
 
-
 <article class="container">
 {% for post in paginator.posts %}
   {% unless post.draft %}
     <section class="index">
         <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
         <div>
-            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+            <h2 class="title"><a href="{{ site.baseurl}}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
             <div class="meta">
                 <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
             </div>

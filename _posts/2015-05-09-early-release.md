@@ -17,6 +17,6 @@ Learn the most critical features of Docker, how build reliable container images,
 
 ### The Final Book Ships June 25, 2015
 
-<div class="full zoomable"><img src="/images/book-cover.jpg"></div>
+<div class="full zoomable"><img src="{{ site.baseurl }}images/book-cover.jpg"></div>
 
 Stay tuned for updates.
