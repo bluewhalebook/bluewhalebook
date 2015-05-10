@@ -13,8 +13,8 @@ The first three chapters of the book are now available for *free* [from New
 Relic](http://newrelic.com/docker-book) who have kindly sponsored this preview
 release.
 
-The authors, Sean and Karl, have been running Docker *in production for a year* and
-a half and can *now pass on some of that valuable experience to you*.
+The authors have been running Docker *in production for a year* and a half and
+can *now pass on some of that valuable experience to you*.
 
 In these chaptes you'll learn a little about Docker's history, what a container is and is not, how
 Docker is different from other solutions, and why it might be a good fit for
