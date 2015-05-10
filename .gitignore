@@ -2,3 +2,5 @@ _site/
 .DS_Store
 *.swp
 *.swo
+.ruby-version
+.sass-cache
