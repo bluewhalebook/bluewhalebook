@@ -8,10 +8,9 @@ inc:
   # Company information
   company:      "Docker: Up and Running"
   url:          http://shop.oreilly.com/product/0636920036142.do
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
   about_link:   /about/
+
+  feed:         false
   
   # Product Information
   product_link: http://shop.oreilly.com/product/0636920036142.do
@@ -33,7 +32,6 @@ inc:
  # Analytics     
   analytics:
     google: false # Add tracking code in _includes/_google-analytics.html
-      
       
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
