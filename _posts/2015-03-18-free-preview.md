@@ -13,9 +13,12 @@ The first three chapters of the book are now available for *free* [from New
 Relic](http://newrelic.com/docker-book) who have kindly sponsored this preview
 release.
 
-Learn a little about Docker's history, what a container is and is not, how
+The authors, Sean and Karl, have been running Docker *in production for a year* and
+a half and can *now pass on some of that valuable experience to you*.
+
+In these chaptes you'll learn a little about Docker's history, what a container is and is not, how
 Docker is different from other solutions, and why it might be a good fit for
-you. By the time you're finished with the preview releases, you'll have Docker
+you. By the time you're finished with the free preview, you'll have Docker
 installed and running on your development system.
 
 <div class="full zoomable"><img src="{{ site.baseurl }}images/new_relic_preview_edition_pdf.jpg"></div>
