@@ -93,7 +93,7 @@ a {
     height: 320px;
     background-color:#111;
     background-size:cover;
-    background-position:center center;
+	background-position: center center;
     z-index:1;
 
     section {
@@ -117,6 +117,7 @@ a {
         	color-stop(0, rgba(0,0,0,0.15)),
         	color-stop(1, rgba(0,0,0,0))
         );
+		-moz-background-position: center top;
         padding: 100px 0;
         z-index:10;
 
