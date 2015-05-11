@@ -21,6 +21,7 @@ desc "Generate and publish blog to gh-pages"
 task :publish => [:build] do
   Dir.mktmpdir do |tmp|
     cp_r "_site/.", tmp
+    cp_r "CNAME", tmp
     Dir.chdir tmp
     system "git init"
     system "git add ."
