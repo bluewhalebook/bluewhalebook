@@ -21,7 +21,7 @@ Docker is different from other solutions, and why it might be a good fit for
 you. By the time you're finished with the free preview, you'll have Docker
 installed and running on your development system.
 
-<div class="full zoomable"><img src="{{ site.baseurl }}images/new_relic_preview_edition_pdf.jpg"></div>
+<div class="full zoomable"><img src="{{ site.baseurl }}/images/new_relic_preview_edition_pdf.jpg"></div>
 
 > “Docker is the lingua franca between clouds”
 
