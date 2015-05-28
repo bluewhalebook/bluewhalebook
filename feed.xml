@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://bluewhalebook.github.io/bluewhalebook</link>
+    <atom:link href="http://bluewhalebook.github.io/bluewhalebook/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Thu, 28 May 2015 05:22:39 +0000</pubDate>
+    <lastBuildDate>Thu, 28 May 2015 05:22:39 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Announcing Early Release</title>
+      <link>http://bluewhalebook.github.io/bluewhalebook/2015/05/27/early-release/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://bluewhalebook.github.io/bluewhalebook/2015/05/27/early-release</guid>
+      <description>&lt;p&gt;Learn the most critical features of Docker, how build reliable container images, and how to ship them in production.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Docker is a good approach to solving some real-world organizational problems and helping enable companies to ship better software faster”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Docker: Up and Running” is now available in early release and can be &lt;a href=&quot;http://shop.oreilly.com/product/0636920036142.do&quot;&gt;downloaded from O’Reilly Media&lt;/a&gt; in many popular ebook formats.&lt;/p&gt;
+
+&lt;h3 id=&quot;the_final_book_ships_june_25_2015&quot;&gt;The Final Book Ships June 25, 2015&lt;/h3&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/book-cover.jpg&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;Stay tuned for updates.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Free Preview</title>
+      <link>http://bluewhalebook.github.io/bluewhalebook/2015/03/18/free-preview/</link>
+      <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://bluewhalebook.github.io/bluewhalebook/2015/03/18/free-preview</guid>
+      <description>&lt;p&gt;The first three chapters of the book are now available for &lt;em&gt;free&lt;/em&gt; &lt;a href=&quot;http://newrelic.com/docker-book&quot;&gt;from New Relic&lt;/a&gt; who have kindly sponsored this preview release.&lt;/p&gt;
+
+&lt;p&gt;The authors have been running Docker &lt;em&gt;in production for a year&lt;/em&gt; and a half and can &lt;em&gt;now pass on some of that valuable experience to you&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In these chapters you’ll learn a little about Docker’s history, what a container is and is not, how Docker is different from other solutions, and why it might be a good fit for you. By the time you’re finished with the free preview, you’ll have Docker installed and running on your development system.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;a href=&#39;http://newrelic.com/docker-book&#39;&gt;&lt;img src=&#39;/images/new_relic_preview_edition_pdf.jpg&#39; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Docker is the lingua franca between clouds”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;the_final_book_ships_june_25_2015&quot;&gt;The Final Book Ships June 25, 2015&lt;/h3&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
